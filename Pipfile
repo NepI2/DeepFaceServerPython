@@ -7,6 +7,7 @@ name = "pypi"
 flask = "*"
 jsonpickle = "*"
 waitress = "*"
+mat = "*"
 
 [dev-packages]
 
